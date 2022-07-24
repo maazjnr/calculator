@@ -12,7 +12,7 @@ const CalcProvider = ({children}) => {
 
     const ProviderValue = {
         calc, setCalc
-    }
+    };
 
     return(
         <CalcContext.Provider value={ProviderValue}>
@@ -21,4 +21,4 @@ const CalcProvider = ({children}) => {
     )
 }
 
-export default CalcProvider
+export default CalcProvider;
