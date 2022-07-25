@@ -13,6 +13,7 @@ const Wrapper = () => {
             </h1>
         </div>
     )
+    
 }
 
 export default Wrapper;
